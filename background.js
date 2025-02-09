@@ -1,3 +1,3 @@
 chrome.runtime.onInstalled.addListener(() => {
-    console.log("Policy Checker extension installed.");
+    console.log("Policy Checker extension installed  Done.");
   });
